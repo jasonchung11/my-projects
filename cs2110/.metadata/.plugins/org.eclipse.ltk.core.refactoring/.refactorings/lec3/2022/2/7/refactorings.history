@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;lec3.getset&apos; to &apos;Fraction3&apos;&#x0A;- Original project: &apos;lec3&apos;&#x0A;- Original element: &apos;lec3.getset&apos;&#x0A;- Renamed element: &apos;lec3.Fraction3&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;getset&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;lec3{getset.java[getset" matchStrategy="1" name="Fraction3" qualified="false" references="true" similarDeclarations="false" stamp="1644282669686" textual="false" version="1.0"/>
+</session>

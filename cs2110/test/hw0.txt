@@ -1,0 +1,5 @@
+x = x + 2;
+
+The statement works by taking the existing x value and adding 2 to its value
+(assuming x is an int type), and then assigning it to the x value replacing its previous value.
+The previous value of x is lost and the new value is now stored in x.

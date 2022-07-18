@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;DLList.java&apos; to &apos;linkedList&apos;&#x0A;- Original project: &apos;linkedList&apos;&#x0A;- Destination element: &apos;linkedList&apos;&#x0A;- Original element: &apos;DLList.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=linkedList" element1="/src&lt;{DLList.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1645760922200" units="1" version="1.0"/>
+</session>
