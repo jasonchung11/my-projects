@@ -194,7 +194,6 @@ def is_currency(code):
     # return True or False
 
     json_returned = query_website(code,'EUR',10.3)
-    #print(json_returned)
     return not has_error(json_returned)
 
 
@@ -217,16 +216,9 @@ def exchange(src, dst, amt):
     Parameter amt: amount of currency to convert
     Precondition: amt is a float
     """
-
-    # json_string = query_website(src,dst,amt)
-    # print(json_string)
-
+    
     json_received = query_website(src,dst,amt)
-    #sprint(json_received)
     new = get_new(json_received)
-    #print(new)
     amount = float(before_space(new))
-    #print(amount)
     return amount
 
-    # use get_new and before_space!
